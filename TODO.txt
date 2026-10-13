@@ -1,3 +1,6 @@
-- Create future balance sheets
-- Update the sample numbers in the IRR gap to avoid fractions, as they are rounded by Google Sheets on export
+- Create sample contracts
+- Calculate future balance sheets (+ an interactive balance sheet)
+- Update sample numbers in the IRR gap to avoid fractions, as they are rounded by Google Sheets on export
 - Update the New Business file to make sure Assets = Liabilities and the distribution of new business in time is close to uniform
+- IRRBB backtesting and forecast
+- New business optimization
